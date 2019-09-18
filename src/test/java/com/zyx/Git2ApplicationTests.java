@@ -11,6 +11,7 @@ public class Git2ApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("hehe");
     }
 
 }
